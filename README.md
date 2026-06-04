@@ -1,6 +1,7 @@
 # Progetto GIS
 
-
+Il progetto consiste in uno sviluppo di un'applicazione con interfaccia grafica interattiva basata sulla mappa del campus di Fisciano.
+Il sistema permette di calcolare il percorso ottimale tra due punti dell'università, lasciando scegliere all'utente l'itinerario più ombreggiato o più soleggiato.
 
 ## Installazione dell'ambiente Python
 
